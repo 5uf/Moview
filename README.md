@@ -2,9 +2,9 @@
 A Malaysian movie review and recommendation app
 
 Technology
-Backend - NodeJS
-Frontend - HTML, CSS, JS
-Database - MongoDB
+Backend : NodeJS
+Frontend : HTML, CSS, JS
+Database : MongoDB
 
 Instruction
 To run Moview:
