@@ -1,0 +1,151 @@
+<%- include('layouts/header.ejs') %>
+<style>
+    .auto {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .manual {
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+    }
+    .form-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 60%;
+    }
+    .form-container input {
+        width: 100%;
+        padding: 10px;
+        margin-top: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    .form-container .button {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    .form-container button, a {
+        width: 10rem;
+        padding: 10px;
+        margin-top: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #4ef76a;
+    }
+    .form-container button:hover {
+        background-color: #ccc;
+    }
+
+</style>
+
+
+<% if (message != '') { %>
+    <div id="message">
+        <%- message %>
+    </div>
+    <% } %>
+<div class="auto">
+    <h1>Add New Movie Automatically</h1>
+    <form class="form-container" action="/add" method="POST">
+        <input type="text" name="link" placeholder="Enter the official movie IMDB Link">
+    <div class="button">
+        <button type="button" id="manual" onclick="showManual()">Add Manually</button>
+        <button type="submit" onclick="checkLink()">Add Automatically</button>
+    </div>
+    </form>
+    <br>
+    
+    <div class="manual">
+        <h1>Add New Movie Manually</h1>
+    <form class="form-container" action="/add2" method="POST">
+        <input type="text" name="title" placeholder="Title Of Movie">
+        <input type="text" name="rated" placeholder="Rated">
+        <input type="date" name="year" placeholder="Year of Released">
+        <input type="text" name="runtime" placeholder="Runtime">
+        <input type="text" name="genre" placeholder="Genre">
+        <input type="text" name="writer" placeholder="Writer">
+        <input type="text" name="actors" placeholder="Actors or Cast">
+        <input type="text" name="plot" placeholder="Summary or plot of story">
+        <input type="text" name="country" placeholder="Country">
+        <input type="text" name="awards" placeholder="Awards">
+        <input type="text" name="language" placeholder="Language">
+        <input type="text" name="director" placeholder="Director">
+        <input type="text" name="imdbrating" placeholder="IMDB Rating">
+        <input type="text" name="imdbvotes" placeholder="IMDB Votes">
+        <input type="text" name="imdbid" placeholder="IMDB ID">
+        <input type="text" name="type" placeholder="Type">
+        <input type="text" name="dvd" placeholder="DVD">
+        <input type="text" name="boxoffice" placeholder="Box Office">
+        <input type="text" name="production" placeholder="Production">
+        <input type="text" name="website" placeholder="Website">
+        <input type="text" name="poster" placeholder="Please insert link to official poster">
+        <button type="submit" onclick="checkLinkM()">Add Movie</button>
+    </div>
+</div>
+<script>
+    function showManual() {
+        var x = document.getElementsByClassName("manual");
+        var y = document.getElementById("manual");
+        if (x[0].style.display === "none") {
+            x[0].style.display = "flex";
+        } else {
+            x[0].style.display = "none";
+        }
+    }
+
+    function checkLink() {
+        var x = document.getElementsByName("link")[0].value;
+        //check if the link is empty or not started with https://www.imdb.com/title/
+        if (x == "" || x.substring(0, 29) != "https://www.imdb.com/title/") {
+            alert("Please insert a valid link");
+            //prevent the form from submitting
+            event.preventDefault();
+        }
+    }
+ //check for all the input if it is empty or not
+    function checkLinkM() {
+        var x = document.getElementsByName("title")[0].value;
+        var y = document.getElementsByName("rated")[0].value;
+        var z = document.getElementsByName("year")[0].value;
+        var a = document.getElementsByName("runtime")[0].value;
+        var b = document.getElementsByName("genre")[0].value;
+        var c = document.getElementsByName("writer")[0].value;
+        var d = document.getElementsByName("actors")[0].value;
+        var e = document.getElementsByName("plot")[0].value;
+        var f = document.getElementsByName("country")[0].value;
+        var g = document.getElementsByName("awards")[0].value;
+        var h = document.getElementsByName("language")[0].value;
+        var i = document.getElementsByName("director")[0].value;
+        var j = document.getElementsByName("imdbrating")[0].value;
+        var k = document.getElementsByName("imdbvotes")[0].value;
+        var l = document.getElementsByName("imdbid")[0].value;
+        var m = document.getElementsByName("type")[0].value;
+        var n = document.getElementsByName("dvd")[0].value;
+        var o = document.getElementsByName("boxoffice")[0].value;
+        var p = document.getElementsByName("production")[0].value;
+        var q = document.getElementsByName("website")[0].value;
+        var r = document.getElementsByName("poster")[0].value;
+        if (x == "" || y == "" || z == "" || a == "" || b == "" || c == "" || d == "" || e == "" || f == "" || g == "" || h == "" || i == "" || j == "" || k == "" || l == "" || m == "" || n == "" || o == "" || p == "" || q == "" || r == "") {
+            alert("Please fill in all the information");
+            //prevent the form from submitting
+            event.preventDefault();
+        }
+    }
+       
+        
+
+</script>
+
+
+<%- include('layouts/footer.ejs') %>

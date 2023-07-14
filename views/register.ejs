@@ -1,0 +1,68 @@
+<%- include('layouts/header.ejs') %>
+<style>
+    .register {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        height: 57vh;
+    }
+    .register h1 {
+        text-align: center;
+    }
+    .register form {
+        width: 30%;
+        margin: 0 auto;
+    }
+    .register input {
+        width: 100%;
+        padding: 10px;
+        margin-top: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    .register .button {
+        display: flex;
+        justify-content: center;
+    }
+    .register button {
+        width: 100%;
+        padding: 10px;
+        margin-top: 10px;
+        margin-left: 2.5rem;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #f5f5f5;
+    }
+</style>
+<% if (message != '') { %>
+    <div id="message">
+        <%- message %>
+    </div>
+    <% } %>
+    <div class="register">
+    <h1>Moview Register</h1>
+    <form action="/register" method="POST">
+        <input type="text" name="username" placeholder="Username">
+        <input type="password" name="password" placeholder="Password">
+        <input type="password" name="password2" placeholder="Confirm Password">
+        <input type="email" name="email" placeholder="Email">
+        <input type="number" name="phonenum" placeholder="Phone Number">
+        <div class="button">
+            <button type="button" onclick="window.location.href='/login'">Login</button>
+            <button type="submit">Register</button>
+        </div>
+    </form>
+    </div>
+    <script>
+        //make sure the passwords match
+        $('form').submit(function(e) {
+            if ($('input[name="password"]').val() != $('input[name="password2"]').val()) {
+                e.preventDefault();
+                alert('Username or password is incorrect');
+            }
+        });
+    </script>
+
+<%- include('layouts/footer.ejs') %>

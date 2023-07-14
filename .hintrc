@@ -1,0 +1,41 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/text-alternatives": [
+      "default",
+      {
+        "image-alt": "off"
+      }
+    ],
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "backdrop-filter",
+          "user-select",
+          "-webkit-tap-highlight-color",
+          "scroll-behavior",
+          "-webkit-box-reflect",
+          "scale",
+          "width: fit-content",
+          "appearance"
+        ]
+      }
+    ],
+    "no-inline-styles": "off",
+    "axe/name-role-value": [
+      "default",
+      {
+        "link-name": "off"
+      }
+    ],
+    "axe/forms": [
+      "default",
+      {
+        "label": "off"
+      }
+    ]
+  }
+}

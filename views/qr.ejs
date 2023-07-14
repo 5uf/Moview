@@ -1,0 +1,89 @@
+<%- include('layouts/header.ejs') %>
+
+
+<style>
+
+
+  .qr-container * {
+    color: rgb(0, 0, 0);
+    width: 60%;
+    height: 60%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    
+  }
+
+  canvas {
+    width: 50%;
+    height: 50%;
+  }
+
+  #mainbody {
+    display: none;
+  }
+
+  #qr-canvas {
+    display: none;
+  }
+
+  #qrfile {
+
+    width: 100%;
+  }
+
+  .selector {
+    height: 50px;
+    width: 50px;
+    margin: 0 0 0;
+    padding: 0px 10px 10px;
+    cursor: pointer;
+    margin-bottom: 5px;
+  }
+
+  #result {
+    border: 3px solid zion;
+  }
+</style>
+<div class="qr-container">
+
+  <img class="selector" id="webcamimg"  onclick="setwebcam()" style="display: none;" />
+  <img class="selector" id="qrimg"  onclick="setimg()" style="display: none;" />
+  <div id="mainbody">
+    <div id="outdiv"></div>
+    <div id="result"></div>
+  </div>
+
+  <canvas id="qr-canvas"></canvas>
+
+  <button id="button" style="display: none;">View Movie</button>
+</div>
+
+<script type="text/javascript" src="https://webqr.com/llqrcode.js"></script>
+<script type="text/javascript" src="https://webqr.com/webqr.js"></script>
+<script>
+  var button = document.getElementById("button");
+  // execute the load then button click
+  window.onload = async function () {
+    load();
+    await new Promise(resolve => setTimeout(resolve, 1000));
+    document.getElementById("result").addEventListener("DOMSubtreeModified", function () {
+    var hyperlink = document.getElementById("result").innerHTML;
+    hyperlink = hyperlink.replace(/(<([^>]+)>)/ig, "");
+    window.location.href = "view/"+hyperlink;
+    });
+  };
+
+
+    //execute after page is loaded
+    
+    
+</script>
+
+<%- include('layouts/footer.ejs') %>

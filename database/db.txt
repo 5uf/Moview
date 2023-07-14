@@ -1,0 +1,5 @@
+1. Create a database named grprj
+
+2. create two collection movies and users
+
+3. import each data for their collection

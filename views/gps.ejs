@@ -1,0 +1,99 @@
+<%- include('layouts/header.ejs') %>
+
+<style>
+    h2 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-top: 0.5rem;
+        margin-left: 1%;
+    }
+    #map {
+        margin: auto;
+        height: 70vh;
+        width: 70%;
+        border-radius: 5px;   
+        }
+</style>
+<h2>Find Nearby Cinemas</h2>
+
+<div id="map"></div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script defer async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAbnFx_euXoMz0YCLFox3qdsA_tLc7dc5Q&callback=initMap"></script>
+<script>
+    let map;
+    let userMarker;
+    let infoWindows = [];
+
+//loads the map
+$(document).ready(function() {
+    getLocation();
+    //loads the map again
+    $("#reload").click(function() {
+        getLocation();
+    });
+});
+
+    function initMap() {
+        map = new google.maps.Map(document.getElementById("map"), {
+            center: { lat: 3.1090, lng: 101.4611 },
+            zoom: 14,
+        });
+    }
+
+    function getLocation() {
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(showCinemas);
+        } else {
+            alert("Geolocation not supported.");
+        }
+    }
+
+    function showCinemas(position) {
+        const userLocation = {
+            lat: position.coords.latitude,
+            lng: position.coords.longitude
+        };
+
+        map.setCenter(userLocation);
+
+        const userMarkerIcon = {
+            url: "https://maps.google.com/mapfiles/ms/icons/blue-dot.png",
+            scaledSize: new google.maps.Size(40, 40)
+        };
+
+        userMarker = new google.maps.Marker({
+            position: userLocation,
+            map: map,
+            title: "Your Location",
+            icon: userMarkerIcon
+        });
+
+        const cinemas = [
+            { name: "MBO Cinemas (Quayside Mall) Shah Alam", lat: 2.9573, lng: 101.5533 },
+            { name: "GSC Cinemas Shah Alam", lat: 3.1090, lng: 101.4611 },
+            { name: "TGV Cinemas (Central i-City) Shah Alam", lat: 3.0629, lng: 101.4827 }
+        ];
+
+        cinemas.forEach(cinema => {
+            const marker = new google.maps.Marker({
+                position: { lat: cinema.lat, lng: cinema.lng },
+                map: map,
+                title: cinema.name
+            });
+
+            const infoWindow = new google.maps.InfoWindow({
+                content: `<h3>${cinema.name}</h3><a href="https://maps.google.com/maps?q=${cinema.lat},${cinema.lng}" target="_blank">View on Google Maps</a>`
+            });
+
+            marker.addListener("click", () => {
+                infoWindow.open(map, marker);
+                window.location.href = `https://maps.google.com/maps?q=${cinema.lat},${cinema.lng}`;
+            });
+
+            infoWindows.push(infoWindow);
+        });
+    }
+</script>
+
+<%- include('layouts/footer.ejs') %>

@@ -1,0 +1,149 @@
+<%- include('layouts/header.ejs') %>
+
+<style>
+    .container {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 0 20px;
+        margin: 0 auto;
+    }
+
+    .container h1 {
+        font-size: 2rem;
+        text-align: center;
+    }
+    .row {
+        box-sizing: border-box;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 0 10px;
+        margin: 50px 0;
+    }
+    .review-col {
+        box-sizing: border-box;
+        flex: 1 1 300px;
+        margin: 10px;
+        padding: 0 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #ccc;
+    }
+    .review-col h1 {
+        font-size: 1.5rem;
+    }
+    .review-col h3 {
+        font-size: 1.2rem;
+    }
+    .review-col p {
+        font-size: 1rem;
+    }
+    .review-col .comment-item {
+        margin: 10px 0;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #fff;
+    }
+    .review-col .comment-item h3 {
+        font-size: 1.2rem;
+    }
+    .review-col .comment-item p {
+        font-size: 1rem;
+    }
+    .review-col .comment-item p:last-child {
+        margin-bottom: 0;
+    }
+    .review-col .comment-item p:first-child {
+        margin-top: 0;
+    }
+    .review-col .comment-item p:nth-child(2) {
+        margin-top: 0;
+    }
+    .review-col .comment-item p:nth-child(3) {
+        margin-top: 0;
+    }
+    .review-col .comment-item p:nth-child(4) {
+        margin-top: 0;
+    }
+
+    .comment-item {
+        display: flex;
+        flex-direction: column;
+        margin: 10px 0;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #fff;
+    }
+
+    .comment-item button {
+        display: block;
+        width: 6rem;
+        padding: 10px;
+        margin-top: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #4ef76a;
+        float: right;
+    }
+    .comment-item button:hover {
+        background-color: #ccc;
+    }
+    
+    .comment-buttons {
+        display: flex;
+        justify-content: right;
+        padding: 10px;
+        margin: 0 0 0 0;
+        gap: 10px;
+    }
+
+</style>
+<% if (typeof message != 'undefined' && message != '') { %>
+    <div id="message">
+        <%- message %>
+    </div>
+    <% } %>
+
+<div class="container">
+    <h1>Reviews</h1>
+    <div class="row">
+            <% result.forEach(function(item) { %>
+                <div class="review-col">
+                    <h1 class="title"><%= item.movies.Title %></h1>
+                    <% var id = item.movies.imdbID %>
+                    <% if (item.Comments == undefined) { %>
+                        <h3>No Comments</h3>
+                        <% } else if (item.Comments.length > 0) { %>
+                        <% item.Comments.forEach(function(item) { %>
+                         
+                          <div class="comment-item">
+                          <h3>User: <%= item.user %></h3>
+                          <p>The Rating given <%= item.rating %> of 10</p>
+                          <p>Comment: <%= item.comment %></p>
+
+                          <div class="comment-buttons">
+                            <form action="/delete" method="POST">
+                                <input type="hidden" name="reviewid" value="<%= item.reviewID %>">
+                                <input type="hidden" name="movieid" value="<%= id %>">
+                                <button type="submit">Delete</button>
+                                </form>
+                              <form action="approve" method="POST">
+                                <input type="hidden" name="reviewid" value="<%= item.reviewID %>">
+                                <input type="hidden" name="movieid" value="<%= id %>">
+                                <button type="submit">Approve</button>
+                                </form>
+                            </div>
+                          </div>
+                        <% }); %>
+                        <% } else { %>
+                          <h3>No Comments</h3>
+                         <% } %>
+                     </div>
+            <% }); %>
+        </div>
+    </div>
+</div>
+
+<%- include('layouts/footer.ejs') %>

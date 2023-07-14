@@ -1,0 +1,53 @@
+<%- include('layouts/header.ejs') %>
+<style>
+    body {
+        background-color: #f5f5f5;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .grid {
+        display: grid;
+        place-items: center;
+        grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+        grid-gap: 10px;
+        padding: 5rem;
+    }
+    .grid-item {       
+        border-radius: 5px;
+        padding: 10px;
+    }
+    .grid-item-content {
+        height: 17rem;
+        width: 14.5rem;
+        border-radius: 19px;
+        background: #f9f5f5;
+        box-shadow: inset -26px 26px 19px #d9d5d5,
+        inset 26px -26px 19px #ffffff;
+        border: solid 1px #e6e6e6;
+    }
+    h3, p {
+        text-align: center;
+        margin: 0;
+    }
+    a {
+        text-decoration: none;
+        color: #000;
+    }
+</style>
+    <div class="grid">
+            <% result.forEach(function(item) { %>
+              <a href="/view/<%= item.movies.imdbID %>">
+                <div class="grid-item">
+                    <% if(item.movies.Poster != "N/A") { %>
+                    <img class="grid-item-content" src="<%= item.movies.Poster %>" alt="Movie Poster" height="50" width="30" />    
+                    <% } else { %>
+                        <img class="grid-item-content" src="https://via.placeholder.com/300x450" alt="Movie Poster" height="50" width="30" />   
+                    <% } %>
+                    <h3><%= item.movies.Title %> (<%= item.movies.Year %>) </h3>
+                    </div>
+                </a>
+            <% }); %>
+        </div>
+    </div>
+
+
+    <%- include('layouts/footer.ejs') %>

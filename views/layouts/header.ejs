@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Movie Review by Azri">
+    <meta name="keywords" content="Movie Recommendation and Review">
+    <meta name="author" content="MSA">
+    <link rel="icon" type="image/png" href="/moview-logo.png">
+    <link rel="stylesheet" href="/style.css">
+    <script src="https://kit.fontawesome.com/6b0af4bcb3.js" crossorigin="anonymous"></script>
+    <title>Movie Review By Azri</title>
+</head>
+<body>
+    <nav class="navbar">
+      <div class="nav-left">
+        <a href="/"><i class="fas fa-home"></i><b>Home</b></a>
+        <a href="/genre"><i class="fas fa-film"></i> Genre</a>
+        <% if (typeof admin != 'undefined') { %>
+             <% if (admin == true) { %>
+              <a href="/add"><i class="fas fa-plus"></i> Add New Movie</a>
+              <a href="/reviews"><i class="fas fa-users"></i> Reviews</a>
+              <% } %>
+        <% } else { %>
+          <a href="/gps" alt="Find Nearby Cinema"><i class="fas fa-map-marker-alt"></i> Cinema</a>
+          <a href="/qr" alt="QR Code Scanner"><i class="fas fa-qrcode"></i> QR Scan</a>
+     <% } %> 
+        
+    </div>
+    <div class="nav-center">
+      <img src="/moview-logo.png" alt="Moview Logo" width="80px" height="72px">
+    </div>
+    <div class="nav-right">
+      <div class="dropdown">
+        <a><i class="fas fa-search"></i> Search</a>
+        <div class="dropdown-content">
+          <form action="/search" method="post">
+            <input type="text" name="search" placeholder="Search Movie Title">
+            <button  class="search-btn" type="submit"><i class="fas fa-search"></i></button>
+          </form>
+      </div>
+      </div>
+      <% if (typeof user != 'undefined') { %>
+      <div class="dropdown">
+        <a><%= user %><i class="fas fa-user"></i> </a>
+        <div class="dropdown-content">
+          <a href="/profile">Profile</a>
+          <br>
+          <a href="/logout">Logout</a>
+      </div>
+      <% } else { %>
+      <div class="dropdown">
+        <a><i class="fas fa-user"></i> Account</a>
+        <div class="dropdown-content">
+          <a href="/login">Login</a>
+          <br>
+          <a href="/register">Register</a>
+      </div>
+      </div>
+      <% } %>
+    </nav>
+    <nav class="hamburger">
+        <button class="hambtn" onclick="hambtn()" id="hambtn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="menu"><g data-name="Layer 2"><g data-name="menu"><rect width="18" height="2" x="3" y="11" rx=".95" ry=".95"></rect><rect width="18" height="2" x="3" y="16" rx=".95" ry=".95"></rect><rect width="18" height="2" x="3" y="6" rx=".95" ry=".95"></rect></g></g></svg>
+        </button>
+       <div class="hamburger-content" id="hamburger-content">
+        <a href="/">Home: <strong><%= user %></strong> </a>
+        <div class="genre-content" id="genre-content">
+          <ul style="list-style-type: none;">
+            <li><a href="/genre/Action">Action</a></li>
+            <li><a href="/genre/Adventure">Adventure</a></li>
+            <li><a href="/genre/Animation">Animation</a></li>
+            <li><a href="/genre/Comedy">Comedy</a></li>
+            <li><a href="/genre/Crime">Crime</a></li>
+            <li><a href="/genre/Drama">Drama</a></li>
+            <li><a href="/genre/Family">Family</a></li>
+            <li><a href="/genre/Fantasy">Fantasy</a></li>
+            <li><a href="/genre/History">History</a></li>
+            </ul>
+            </div>
+        <a onclick="genrebtn()">Genre</a>
+        <div class="genre-content" id="genre-content2" style="margin-left: 38%;">
+          <ul style="list-style-type: none;">
+          <li><a href="/genre/Horror">Horror</a></li>
+          <li><a href="/genre/Music">Music</a></li>
+          <li><a href="/genre/Mystery">Mystery</a></li>
+          <li><a href="/genre/Romance">Romance</a></li>
+          <li><a href="/genre/Science Fiction">Science Fiction</a></li>
+          <li><a href="/genre/TV Movie">TV Movie</a></li>
+          <li><a href="/genre/Thriller">Thriller</a></li>
+          <li><a href="/genre/War">War</a></li>
+          <li><a href="/genre/Western">Western</a></li>
+        </ul>
+      </div>
+      <a href="/gps">Nearby Cinemas </a>
+      <a href="/qr">Scan A QR </a>
+        <% if (typeof user != 'undefined') { %>
+          <a href="/profile">Profile</a>
+          <% if (typeof admin != 'undefined') { %>
+            <% if (admin == true) { %>
+             <a href="/add"></i> Add New Movie</a>
+             <a href="/reviews"></i> Reviews</a>
+             <% } %>
+             <a href="/logout">Logout</a>
+       <% } %>
+        <% } else { %>
+        <a href="/login">Login</a>
+        <a href="/register">Register</a>
+        <% } %>
+        </div>
+
+        <div class="hamburger-search2">
+          <form action="/search" method="post" >
+            <input type="text" name="search" placeholder="Search Movie Title" class="search-content" id="final" /> 
+           
+          </form>
+         <a id="start" style="display: none;"><img src="/microphone.png" alt="microphone" width="20px" height="20px"></i></a>
+          <a onclick="searchbtn()" id="search-btn"><img src="/search.png" alt="search" width="20px" height="20px"></i></a> 
+        </div> 
+    </nav>
+    <br>
+    <div id="loading">
+      <span id="loading-text">Loading...</span>
+    </div>

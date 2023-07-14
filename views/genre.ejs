@@ -1,0 +1,53 @@
+<%- include('layouts/header.ejs') %>
+
+<style>
+    .genre-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 10px;
+        margin: 0 auto;
+        margin-top: 50px;
+        width: 80%;
+    }
+    .genre-grid a {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 3rem;
+        background: rgb(115, 255, 115);
+        border-radius: 10px;
+        transition: 0.2s ease-in-out;
+        color: #22255a;
+        font-size: 1.5rem;
+        text-decoration: none;
+    }
+    .genre-grid a:hover {
+        background: rgb(255, 255, 255);
+        color: #000000;
+    }
+</style>
+
+<div class="title-bar"><h1>Genre</h1></div>
+    <div class="genre-grid">
+    
+        <a href="/genre/action">Action</a>
+        <a href="/genre/adventure">Adventure</a>
+        <a href="/genre/animation">Animation</a>
+        <a href="/genre/comedy">Comedy</a>
+        <a href="/genre/crime">Crime</a>
+        <a href="/genre/documentary">Documentary</a>
+        <a href="/genre/drama">Drama</a>
+        <a href="/genre/family">Family</a>
+        <a href="/genre/fantasy">Fantasy</a>
+        <a href="/genre/history">History</a>
+        <a href="/genre/horror">Horror</a>
+        <a href="/genre/mystery">Mystery</a>
+        <a href="/genre/romance">Romance</a>
+        <a href="/genre/science-fiction">Science Fiction</a>
+        <a href="/genre/thriller">Thriller</a>
+        <a href="/genre/war">War</a>      
+    </div>
+
+
+
+<%- include('layouts/footer.ejs') %>

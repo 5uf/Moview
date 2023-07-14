@@ -1,0 +1,1901 @@
+[{
+  "_id": {
+    "$oid": "643a403606b218f9269391b0"
+  },
+  "movies": {
+    "Title": "One Cent Thief",
+    "Year": "2022–",
+    "Rated": "N/A",
+    "Released": "08 Oct 2022",
+    "Runtime": "N/A",
+    "Genre": "Action, Crime, Drama",
+    "Director": "N/A",
+    "Writer": "Alfie Palermo",
+    "Actors": "Syafiq Kyle, Faizal Hussein, Azira Shafinaz",
+    "Plot": "One Cent Thief is about a young, ambitious banker who desperately needed to cure his ailing father and restore his self-worth. He started stealing 1 cent from other people's bank accounts.",
+    "Language": "Malay, English",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmU3NTU3YzYtMzQ2Zi00MTI3LWI2MmItNzY4ZDM5NGIyZTkwXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": 7.617169208927169,
+    "imdbVotes": 144,
+    "imdbID": "tt20852220",
+    "Type": "series",
+    "totalSeasons": "N/A",
+    "Response": "True"
+  },
+  "Comments": [
+    {
+      "reviewID": 395548281,
+      "rating": "6",
+      "comment": "6666",
+      "user": "Anonymous",
+      "verified": true
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391b2"
+  },
+  "movies": {
+    "Title": "Illamai Itho Itho",
+    "Year": "2018",
+    "Rated": "N/A",
+    "Released": "11 Nov 2018",
+    "Runtime": "N/A",
+    "Genre": "Comedy",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "James Devan Arokisamy, Poochi Arumugam, Vicran Elanggoven",
+    "Plot": "N/A",
+    "Language": "Tamil",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWQzNDY5MzQtZmU0Yy00M2NhLTg4MzItYTU0MWI3ZDhhNTU4XkEyXkFqcGdeQXVyOTQzOTU0MzU@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt10199366",
+    "Type": "series",
+    "totalSeasons": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391b3"
+  },
+  "movies": {
+    "Title": "Abang Long Fadil 3",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "08 Sep 2022",
+    "Runtime": "116 min",
+    "Genre": "Action, Comedy, Thriller",
+    "Director": "Syafiq Yusof",
+    "Writer": "Syafiq Yusof, MF Kencana, Effindi K",
+    "Actors": "Zizan Razak, Johan Raja Lawak, Elizabeth Tan",
+    "Plot": "Fadil is back with a new mission with higher stakes - he needs to shut down Chow Han's evil conspiracy while he is being hunted by King Cobra who is seeking revenge.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "9 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzlmMmUyMDAtNDNlNi00ZjJlLWFjM2QtZWNjODA4OGMzZGI0XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "NaN0.016949152542372881.0",
+    "imdbVotes": 179,
+    "imdbID": "tt13199494",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391b6"
+  },
+  "movies": {
+    "Title": "Mechamato Movie",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "08 Dec 2022",
+    "Runtime": "120 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Nizam Razak",
+    "Writer": "Nizam Razak",
+    "Actors": "Armand Ezra, Muhamad Noradzlan Mohamad Nazir, Ielham Iskandar",
+    "Plot": "Amato outsmarts MechaBot and becomes its master, allowing him to use its unique ability to Mechanize everyday objects into high-tech devices.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWU5ZjAwZjctZjQ5YS00OWM5LTk5MzItZDMxNGM0NTFlMGEzXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.1",
+    "imdbVotes": "300",
+    "imdbID": "tt24225212",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391b7"
+  },
+  "movies": {
+    "Title": "Possessed",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "29 Sep 2022",
+    "Runtime": "94 min",
+    "Genre": "Action, Horror, Thriller",
+    "Director": "James Lee",
+    "Writer": "Adib Zaini",
+    "Actors": "Alif Satar, Ikmal Amry, Abbas Mahmood",
+    "Plot": "Zamri, an ustaz with an existential crisis, has a more urgent matter on his hands when the 27 students he is in charge of one night start turning into zombies.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "1 win & 1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTUyYjRiODMtZDg2ZS00N2RlLWJjZTYtOGY4NjM0OWM2N2M3XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": 8.417242771100645,
+    "imdbVotes": 151,
+    "imdbID": "tt22400006",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391b4"
+  },
+  "movies": {
+    "Title": "Mat Kilau",
+    "Year": "2022",
+    "Rated": "TV-MA",
+    "Released": "23 Jun 2022",
+    "Runtime": "117 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Syamsul Yusof",
+    "Writer": "Shahruddin Dali, Syamsul Yusof",
+    "Actors": "Adi Putra, Beto Kusyairy, Fattah Amin",
+    "Plot": "The film is inspired by the epic Malaysian historical figure Mat Kilau who had fought against the British colonists in Pahang before independence.",
+    "Language": "Malay, Gujarati, English",
+    "Country": "Malaysia",
+    "Awards": "4 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDYwNjNhNmQtNzZlZC00YzVmLThhMzItNmJiYWJjMGFjODQwXkEyXkFqcGdeQXVyMjkyOTg5NjI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": {
+      "$numberDouble": "NaN"
+    },
+    "imdbVotes": 2,
+    "imdbID": "tt11347146",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391b5"
+  },
+  "movies": {
+    "Title": "Marry Me, Senorita",
+    "Year": "2005–2021",
+    "Rated": "N/A",
+    "Released": "02 Feb 2021",
+    "Runtime": "40 min",
+    "Genre": "Drama, Romance",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Janna Nick, Meerqeen, Dini Schatzmann",
+    "Plot": "Sofiy furthers her studies overseas and tries not to think of Isa even though she is still very much in love with him. What will happen to Isa after the divorce? Will their love survive and bloom again?",
+    "Language": "Malay, English",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTI4NzA2NTUtMzA3YS00NGFlLTk3ZWQtYWEyNTg3NzQ1ZjljXkEyXkFqcGdeQXVyMTU2Mzg5MDAw._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "7",
+    "imdbID": "tt13998804",
+    "Type": "series",
+    "totalSeasons": "1",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391b8"
+  },
+  "movies": {
+    "Title": "Istanbul Aku Datang!",
+    "Year": "2012",
+    "Rated": "N/A",
+    "Released": "08 Nov 2012",
+    "Runtime": "98 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Bernard Chauly",
+    "Writer": "Rafidah Abdullah",
+    "Actors": "Beto Kusyairy, Lisa Surihani, Tomok",
+    "Plot": "A young lady from Malaysia come to Istanbul just to meet her beloved boyfriend, but that naive girl doesn't know what will happen to her life there.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "2 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmQzNjQ2YTctMjc4Yi00OTc0LWI0MGEtOTgzMmViNTllNmQ1XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": 14.668855463083148,
+    "imdbVotes": 189,
+    "imdbID": "tt2436328",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391b9"
+  },
+  "movies": {
+    "Title": "Munafik 2",
+    "Year": "2018",
+    "Rated": "N/A",
+    "Released": "29 Aug 2018",
+    "Runtime": "104 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Syamsul Yusof",
+    "Writer": "Syamsul Yusof",
+    "Actors": "Syamsul Yusof, Maya Karin, Nasir Bilal Khan",
+    "Plot": "Haunted by terrifying visions, a Muslim healer finds his faith tested when he helps a woman locked in battle, body and soul, with a diabolical leader.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2RlYWNjOGUtZTllMi00NjA5LWFmZmItZWI2N2VmOWRjYjc3XkEyXkFqcGdeQXVyNTg2MDI2Njc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": {
+      "$numberDouble": "NaN"
+    },
+    "imdbVotes": 2,
+    "imdbID": "tt7059506",
+    "Type": "movie",
+    "DVD": "01 May 2019",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391ba"
+  },
+  "movies": {
+    "Title": "Babi",
+    "Year": "2020",
+    "Rated": "N/A",
+    "Released": "20 Nov 2020",
+    "Runtime": "62 min",
+    "Genre": "Crime, Drama",
+    "Director": "Namewee",
+    "Writer": "Namewee",
+    "Actors": "Sin Foo Chen, Sathisvaran",
+    "Plot": "Babi (2020) tells the story of a group of secondary school students' lives. It portrays how violence exists in a place where people gain knowledge. A real story that killed two innocent people. A story covered up by the media. A s...",
+    "Language": "English, Malay, Mandarin",
+    "Country": "Malaysia",
+    "Awards": "2 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTA2OGMyMjQtMWJhMC00OGI0LTgwNzItNTE0NTgwZDNkNGM3XkEyXkFqcGdeQXVyMTIwMzA3NDcx._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.4",
+    "imdbVotes": "125",
+    "imdbID": "tt13217694",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391bb"
+  },
+  "movies": {
+    "Title": "BoBoiBoy: The Movie",
+    "Year": "2016",
+    "Rated": "TV-G",
+    "Released": "13 Apr 2016",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Comedy",
+    "Director": "Nizam Razak",
+    "Writer": "Anas Abdul Aziz, Nizam Razak",
+    "Actors": "Nur Sarah Alisya, Anas Abdul Aziz, Kevin Adrian Barnaby",
+    "Plot": "A group of alien treasure hunters named The Tengkotak has arrived on earth and kidnapped Ochobot in order to use him to locate an ancient and powerful Power Sphere hiding on earth. BoBoiBoy and his super friends must now race agai...",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmNkOGM3MDYtZTM4MS00ZDhlLWEwYjctYjZjMWE4MTkxMzY1XkEyXkFqcGdeQXVyNjU3NjY0NzY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": {
+      "$numberDouble": "NaN"
+    },
+    "imdbVotes": 3,
+    "imdbID": "tt5466576",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391bd"
+  },
+  "movies": {
+    "Title": "Aliff Dalam 7 Dimensi",
+    "Year": "2016",
+    "Rated": "N/A",
+    "Released": "08 Sep 2016",
+    "Runtime": "100 min",
+    "Genre": "Action, Horror, Romance",
+    "Director": "Faisal Ishak",
+    "Writer": "Anwari Ashraf, Ashraf Modee Zain",
+    "Actors": "Izzue Islam, Juliana Evans, Alif Satar",
+    "Plot": "Aliff, who can see ghost and hate them. Find a really big problem to protect his friend who is so interested in finding ghost.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDRkZjA3YWMtOGUyZi00YTcyLWJkOGUtNmYyY2I4ZDkyNWEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": 10.499432463110102,
+    "imdbVotes": 89,
+    "imdbID": "tt6372460",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391be"
+  },
+  "movies": {
+    "Title": "The Assistant",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "19 May 2022",
+    "Runtime": "124 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Adrian Teh",
+    "Writer": "Chi-Ren Choong, Adrian Teh",
+    "Actors": "Iedil Dzuhrie Alaudin, Hairul Azreen, Henley Hii",
+    "Plot": "Zafik is unjustly imprisoned and not pleased about it. When he is released, he gets the help of the unhinged Feroz to get revenge.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "2 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGM2MWFmYjQtNjgwOC00Nzk5LTlmYzYtZWQ4YzBhNjczNzE4XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": 10.523350757543366,
+    "imdbVotes": 336,
+    "imdbID": "tt16997558",
+    "Type": "movie",
+    "DVD": "19 Aug 2022",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391bf"
+  },
+  "movies": {
+    "Title": "Seratus",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "06 Oct 2022",
+    "Runtime": "123 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Feroz Kader",
+    "Writer": "Eenaz Mokhtar, Mohd Rohizan Ramli",
+    "Actors": "Sharul Kamal, Sara Ali, Riz Amin",
+    "Plot": "When Hafiz's mother is kidnapped, the only thing that can help him save her is a RM100 note that his late father left him - which contains clues that can lead him to find the ransom that the kidnapper demands.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjFhZjg1YzQtOGJkMy00Y2EyLWE5M2EtMzE0ZGNhOGI4N2ZkXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt22375880",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391c0"
+  },
+  "movies": {
+    "Title": "I Don't Want to Sleep Alone",
+    "Year": "2006",
+    "Rated": "N/A",
+    "Released": "23 Mar 2007",
+    "Runtime": "115 min",
+    "Genre": "Drama, Romance",
+    "Director": "Ming-liang Tsai",
+    "Writer": "Ming-liang Tsai",
+    "Actors": "Kang-sheng Lee, Shiang-chyi Chen, Norman Atun",
+    "Plot": "A day laborer is badly beaten, and a young man nurses him back to health.",
+    "Language": "Min Nan, Malay, Mandarin, Bengali",
+    "Country": "Malaysia, China, Taiwan, France, Austria",
+    "Awards": "2 wins & 6 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTMzMjE2MGEtNTA2Ny00N2ExLTg5MDctMTRkNTU1NjNhNDE1XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "Metascore": "78",
+    "imdbRating": {
+      "$numberDouble": "NaN"
+    },
+    "imdbVotes": 4,
+    "imdbID": "tt0855824",
+    "Type": "movie",
+    "DVD": "06 Nov 2007",
+    "BoxOffice": "$19,292",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391bc"
+  },
+  "movies": {
+    "Title": "BoBoiBoy",
+    "Year": "2011–2016",
+    "Rated": "TV-Y7",
+    "Released": "11 Mar 2011",
+    "Runtime": "N/A",
+    "Genre": "Animation, Action, Family",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Su Ling Chan, Nur Fathiah Diaz, Anas Abdul Aziz",
+    "Plot": "A kid name boboiboy found out there was an alien that try to invade their planet.a robot name ochobot give boboiboy and his friend a power to save their planet",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmFjYTcyMTktNmIzMC00MTA4LWJmYTEtN2U0ZTdhNWRlYWM4XkEyXkFqcGdeQXVyNjc5MjE5Nzg@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": 24.590652683586928,
+    "imdbVotes": 392,
+    "imdbID": "tt2918872",
+    "Type": "series",
+    "totalSeasons": "3",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391c3"
+  },
+  "movies": {
+    "Title": "Ejen Ali",
+    "Year": "2016–",
+    "Rated": "PG",
+    "Released": "08 Apr 2016",
+    "Runtime": "N/A",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "N/A",
+    "Writer": "Muhammad Usamah Zaid, Fuad Md Din, Mohd Faiz Hanafiah",
+    "Actors": "Ida Rahayu, Noorhayati Maslini, Shafiq Isa",
+    "Plot": "A boy accidentally becomes a MATA agent after using Infinity Retinal Intelligent System (I.R.I.S) which is a prototype device created by Meta Advance Tactical Agency (M.A.T.A). The I.R.I.S. is controlled by neuro-signals enabling ...",
+    "Language": "Malay, English, Hindi",
+    "Country": "Malaysia",
+    "Awards": "1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmI5ZGJhYTktODdhNC00YTVlLWEwNzYtYzU2NzIwNzhjYmMzXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.4",
+    "imdbVotes": "318",
+    "imdbID": "tt7967192",
+    "Type": "series",
+    "totalSeasons": "2",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391c1"
+  },
+  "movies": {
+    "Title": "Ombak Rindu",
+    "Year": "2011",
+    "Rated": "N/A",
+    "Released": "23 Nov 2011",
+    "Runtime": "125 min",
+    "Genre": "Drama, Romance",
+    "Director": "Osman Ali",
+    "Writer": "Osman Ali",
+    "Actors": "Aaron Aziz, Maya Karin, Lisa Surihani",
+    "Plot": "The story starts with Izzah, an orphan girl who lost both parents due to road accident. Thereafter, her uncle, Taha, took her in. Taha's wife was not happy with Izzah's presence and accused her of bring bad luck to the family. At ...",
+    "Language": "Malay, English",
+    "Country": "Malaysia",
+    "Awards": "1 win",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjk2ZjE3NDEtZDJiOS00N2Y5LWI4YzgtMTJiODJiYWZhNmU3XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": 6.609727800089246,
+    "imdbVotes": 225,
+    "imdbID": "tt2127335",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391c4"
+  },
+  "movies": {
+    "Title": "Imaginur",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "23 Feb 2023",
+    "Runtime": "90 min",
+    "Genre": "Drama, Romance, Sci-Fi",
+    "Director": "Nik Amir Mustapha",
+    "Writer": "Redza Minhat, Nik Amir Mustapha",
+    "Actors": "Beto Kusyairy, Diana Danielle, Afdlin Shauki",
+    "Plot": "A man's quotidian world is suddenly disrupted by strange events when he takes his aging father to the hospital for a check-up. A charitable woman hands him a calling card to the future; a hostile ex unleashes a public humiliation;...",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGUyNjUyODAtOGRkYy00N2IzLWI4YWUtYjQ0MDc0OTliOGQ5XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.9",
+    "imdbVotes": "205",
+    "imdbID": "tt21205440",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391c5"
+  },
+  "movies": {
+    "Title": "16 Puasa",
+    "Year": "2017",
+    "Rated": "N/A",
+    "Released": "08 Jun 2017",
+    "Runtime": "86 min",
+    "Genre": "Comedy",
+    "Director": "Mamat Khalid",
+    "Writer": "Mamat Khalid",
+    "Actors": "Jue Aziz, Ziema Din, Tj Isa",
+    "Plot": "A story of six married men in a village who decided to break their fast and hide their unlawful acts from their wives' knowledge.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzhhY2IxMzUtNWJiZi00MWQ2LTg0NmQtMzExMzU4YzkxOTY1XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "10",
+    "imdbID": "tt18293484",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391c6"
+  },
+  "movies": {
+    "Title": "KL Gangster: Underworld",
+    "Year": "2018–",
+    "Rated": "N/A",
+    "Released": "16 Aug 2018",
+    "Runtime": "N/A",
+    "Genre": "Action, Crime, Drama",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Beto Kusyairy, Ezzaty Abdullah, Nabila Huda",
+    "Plot": "Bloodshed, power struggles, all to take the throne at KL Gangster Underworld",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2FjODYwNDktY2M2Zi00Y2JlLTk0NWYtY2ZjNzdhNzdkZTZjXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "0.0085251491901108266.9",
+    "imdbVotes": 69,
+    "imdbID": "tt11347388",
+    "Type": "series",
+    "totalSeasons": "2",
+    "Response": "True"
+  },
+  "Comments": [
+    {
+      "reviewID": 708529025,
+      "rating": "4",
+      "comment": "Lots of blood\r\n",
+      "user": "sufi",
+      "verified": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391c7"
+  },
+  "movies": {
+    "Response": "False",
+    "Error": "Incorrect IMDb ID."
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391c8"
+  },
+  "movies": {
+    "Title": "Coast Guard Malaysia: Ops Helang",
+    "Year": "2023",
+    "Rated": "N/A",
+    "Released": "02 Feb 2023",
+    "Runtime": "90 min",
+    "Genre": "Action, Adventure, Crime",
+    "Director": "Pitt Hanif",
+    "Writer": "Jason Chong, Tommy Loh, Puovin Sandera",
+    "Actors": "Saharul Ridzwan, Julia Farhana Marin, Sabri Yunus",
+    "Plot": "Hafiz, a Malaysian Coast Guard officer, is celebrating his engagement at a beach resort with his fiancee. Out of nowhere, a group of terrorists hijack the hotel and kidnap his fiancee and her family. Several guests are taken as ho...",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyYjY5MTItNmU4NS00ZGMzLTljZGMtYjIxOTI5ZjZmZGMwXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.4",
+    "imdbVotes": "54",
+    "imdbID": "tt24581070",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391ca"
+  },
+  "movies": {
+    "Title": "The Garden of Evening Mists",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "16 Jan 2020",
+    "Runtime": "120 min",
+    "Genre": "Drama, Romance",
+    "Director": "Tom Lin",
+    "Writer": "Richard Smith, Twan Eng Tan",
+    "Actors": "Angelica Lee, Hiroshi Abe, Sylvia Chang",
+    "Plot": "A woman seeking a quiet life in post-World War II British Malaya finds love and a common interest in gardening with a mysterious Japanese man.",
+    "Language": "English, Cantonese, Japanese, Malay",
+    "Country": "Malaysia, United Kingdom",
+    "Awards": "6 wins & 17 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2IzZTZhOGUtMjI3My00OGFkLWIzMDAtYzk4YTE3N2U3MjZiXkEyXkFqcGdeQXVyNTc5MjA0MDM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.9",
+    "imdbVotes": "801",
+    "imdbID": "tt8434152",
+    "Type": "movie",
+    "DVD": "16 Mar 2021",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391c2"
+  },
+  "movies": {
+    "Response": "False",
+    "Error": "Incorrect IMDb ID."
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391c9"
+  },
+  "movies": {
+    "Title": "Ribbit",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "25 Nov 2020",
+    "Runtime": "88 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Chuck Powers",
+    "Writer": "Amir Hafizi, Chuck Powers",
+    "Actors": "Sean Astin, Tim Curry, Russell Peters",
+    "Plot": "The tale of a frog with an identity crisis.",
+    "Language": "English",
+    "Country": "Malaysia, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDc5MTM0MF5BMl5BanBnXkFtZTgwNDQwODI0MTE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.1/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": 8.403807736427469,
+    "imdbVotes": 718,
+    "imdbID": "tt2066048",
+    "Type": "movie",
+    "DVD": "06 Jan 2015",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391cb"
+  },
+  "movies": {
+    "Title": "Histeria the Series",
+    "Year": "2022–",
+    "Rated": "N/A",
+    "Released": "06 Jun 2022",
+    "Runtime": "N/A",
+    "Genre": "Fantasy, Horror, Mystery",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Mia Sara Shauki, Amelia Christie, Serra Kamal",
+    "Plot": "While investigating a murder that happened 10 years ago in their school, a group of girls are being haunted by supernatural events. They reveal the things that have happened and the curses around them.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGNjZjQ0ODQtN2QyYS00YzEzLTk4YjAtOTMzNTAwOThmMTllXkEyXkFqcGdeQXVyNzU5NDkzNTg@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "6",
+    "imdbID": "tt21047550",
+    "Type": "series",
+    "totalSeasons": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391cc"
+  },
+  "movies": {
+    "Title": "Polis Evo 3",
+    "Year": "2023",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "N/A",
+    "Genre": "Action",
+    "Director": "Syafiq Yusof",
+    "Writer": "Anwari Ashraf, Kyle Goonting, Joel Soh",
+    "Actors": "Shaheizy Sam, Zizan Razak, Nora Danish",
+    "Plot": "Follows Inspector Khai, as he becomes desperate after an old grudge returns to haunt him threatening public with mysterious bombings.",
+    "Language": "Malay",
+    "Country": "N/A",
+    "Awards": "N/A",
+    "Poster": "N/A",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "NaNN/A",
+    "imdbVotes": {
+      "$numberDouble": "NaN"
+    },
+    "imdbID": "tt13189988",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "Comments": [
+    {
+      "reviewID": 110629487,
+      "rating": "5",
+      "comment": "nice",
+      "user": "sufi",
+      "verified": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391cd"
+  },
+  "movies": {
+    "Title": "Mechamato",
+    "Year": "2021–",
+    "Rated": "TV-Y7",
+    "Released": "04 Dec 2021",
+    "Runtime": "N/A",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Anas Abdul Aziz, Marissa Balqis, Armand Ezra",
+    "Plot": "Story of a kind and creative boy named Amato, who comes across a MechaBot, who has the ability to mechanize everyday objects into high tech devices.",
+    "Language": "Malay, English",
+    "Country": "N/A",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWVhYWI4M2YtYjVlYS00YWVmLWIyOGUtZjVlYTBhZDlmMzFkXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.6",
+    "imdbVotes": "36",
+    "imdbID": "tt24215446",
+    "Type": "series",
+    "totalSeasons": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391ce"
+  },
+  "movies": {
+    "Title": "Air Force: The Movie - Selagi Bernyawa",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "25 Aug 2022",
+    "Runtime": "103 min",
+    "Genre": "Action, Adventure, War",
+    "Director": "Zulkarnain Azhar, Frank See",
+    "Writer": "Zulkarnain Azhar, Peter Toyat, Opie Harris",
+    "Actors": "Aiman Hakim Ridza, Adi Putra, Nas-t",
+    "Plot": "Zafran, a grounded SUKHOI pilot, fights for the opportunity to save them. Nine of the passengers managed to make their jump before the plane crashes. Back in Malaysia, upon discovery of the news, the air force makes preparation fo...",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "3 wins & 12 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjE0NWU3NmMtNWYwMC00ZDQ0LWExOGUtMjUxNDQzNjljNGI0XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": 10.199947382267824,
+    "imdbVotes": 381,
+    "imdbID": "tt14571464",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391d0"
+  },
+  "movies": {
+    "Title": "Wira",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "21 Nov 2019",
+    "Runtime": "109 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Adrian Teh",
+    "Writer": "Anwari Ashraf, Adrian Teh",
+    "Actors": "Hairul Azreen, Fify Azmi, Ismi Melinda",
+    "Plot": "After leaving the military, Hassan returns home to help his sister settle a debt to the local gang boss. To do so they must team up to fight the gangster's son and daughter in the ring.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "1 win & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmE4OGFhNjMtOGY0My00NjgxLWEwYjItMGY4YTlmZGMzNDUxXkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": 12.617591656421883,
+    "imdbVotes": 539,
+    "imdbID": "tt11194492",
+    "Type": "movie",
+    "DVD": "16 Jun 2020",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391d1"
+  },
+  "movies": {
+    "Title": "Dukun",
+    "Year": "2018",
+    "Rated": "N/A",
+    "Released": "05 Apr 2018",
+    "Runtime": "108 min",
+    "Genre": "Crime, Horror, Thriller",
+    "Director": "Dain Said",
+    "Writer": "Al Jafree Md Yusop, Huzir Sulaiman",
+    "Actors": "Umie Aida, Faizal Hussein, Elyana",
+    "Plot": "In a case that had the nation riveted and human rights organizations the world over up in arms due to the death sentence handed out to the accused, comes a tale about the lure of riches, power, eternal youth, beauty and the blood ...",
+    "Language": "Hokkien, Malay",
+    "Country": "Malaysia",
+    "Awards": "4 wins & 8 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwYzQ1ZDYtYWEyYS00MTI1LTk1MjctOTY1ZTllNGRkMDU1XkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": 6.667628346421238,
+    "imdbVotes": 487,
+    "imdbID": "tt0862930",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "Comments": [
+    {
+      "reviewID": 590753107,
+      "rating": "5",
+      "comment": "syearam",
+      "user": "sufi",
+      "verified": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391d2"
+  },
+  "movies": {
+    "Title": "Blood Flower",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "09 Feb 2023",
+    "Runtime": "102 min",
+    "Genre": "Fantasy, Horror, Mystery",
+    "Director": "Dain Said",
+    "Writer": "Ben Omar, Dain Said, Nandita Solomon",
+    "Actors": "Idan Aedan, Bront Palarae, Remy Ishak",
+    "Plot": "A young apprentice healer tries to suppress his supernatural abilities so he can fit in with the other kids, but when a malicious spirit breaks out in his apartment he decides to use his abilities while dark family secrets are rev...",
+    "Language": "Malay, English",
+    "Country": "N/A",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGM4NDFkZGUtNzNlZC00ZTYxLTk0ZTMtMmJmYjM0ZmM5OGE4XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "37",
+    "imdbID": "tt22205036",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391d3"
+  },
+  "movies": {
+    "Title": "I-Tanggang: Mother of All Lies",
+    "Year": "2021",
+    "Rated": "N/A",
+    "Released": "13 Sep 2021",
+    "Runtime": "N/A",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Sherie Merlis, Faizal Hussein, Danish Hazriq",
+    "Plot": "i-Tanggang is about a mother using her son for financial gains, making up illnesses to get sympathy from public. As the son grows older, with the help of some teenagers, he plots to escape his mother.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmI0NGNjNjMtMjRjOC00YzVhLTgzOGUtODg1ZjNiNmIyNTljXkEyXkFqcGdeQXVyMTE0MzY3NTEx._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "9",
+    "imdbID": "tt16043304",
+    "Type": "series",
+    "totalSeasons": "1",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391d4"
+  },
+  "movies": {
+    "Title": "17 Puasa",
+    "Year": "2021",
+    "Rated": "N/A",
+    "Released": "15 Apr 2021",
+    "Runtime": "75 min",
+    "Genre": "Comedy",
+    "Director": "Mamat Khalid",
+    "Writer": "Mamat Khalid",
+    "Actors": "Jue Aziz, Shahrizal Abu Bakar, Ziema Din",
+    "Plot": "Following 16 Puasa, this funny story describes six friends who often have problems of fasting during the month of Ramadan. When working together, they always find a way to have their midday meal - but not this time. They were sent...",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTNmNGZlZjQtMWEzMy00NzcwLTljZGItYzc2YjE5ZDRkZjgwXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt18775734",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391d5"
+  },
+  "movies": {
+    "Title": "Soul",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "29 Oct 2021",
+    "Runtime": "83 min",
+    "Genre": "Drama, Horror, Mystery",
+    "Director": "Emir Ezwan",
+    "Writer": "Nazri M. Annuar, Emir Ezwan, Amir Hafizi",
+    "Actors": "Farah Ahmad, Mhia Farhana, Harith Haziq",
+    "Plot": "Set in the past, in which a family gets a visit from a strange little girl with a frightening prediction.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "6 wins & 13 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjBhYTM1NjItZjNiMC00ZmQ2LWE4NTMtNzJjZTI5YjZhNGQ4XkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.0/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "0.0010881392818280746.0",
+    "imdbVotes": 920,
+    "imdbID": "tt10613002",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "Comments": []
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391d6"
+  },
+  "movies": {
+    "Response": "False",
+    "Error": "Error getting data."
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391de"
+  },
+  "movies": {
+    "Title": "Nur",
+    "Year": "2018",
+    "Rated": "N/A",
+    "Released": "14 May 2018",
+    "Runtime": "N/A",
+    "Genre": "Drama",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Syafiq Kyle, Amyra Rosli, Jalaluddin Hassan",
+    "Plot": "The series focuses on the relationship between a pious man and a prostitute who practices her faith in an unconventional manner.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ0ZTA2OGQtYzQ0Zi00MTRlLTljYTItODU0YjUwNzE4YWY1XkEyXkFqcGdeQXVyMTEzMjgxNzE0._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": 69.81308411214954,
+    "imdbVotes": 33,
+    "imdbID": "tt10809864",
+    "Type": "series",
+    "totalSeasons": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391cf"
+  },
+  "movies": {
+    "Title": "Projek: High Council",
+    "Year": "2023–",
+    "Rated": "N/A",
+    "Released": "14 Jan 2023",
+    "Runtime": "N/A",
+    "Genre": "Action, Crime, Drama",
+    "Director": "N/A",
+    "Writer": "Anwari Ashraf",
+    "Actors": "Mierul Aiman, Nadhir Nasar, Amir Ahnaf",
+    "Plot": "When Fakhri revealed the secrets of the school's tradition, he made himself the major target of pupils aspiring towards the \"High Council\" hierarchy. He joins the \"Pilihanraya\" arena, a tournament held in secret to choose the \"Head\".",
+    "Language": "Malay",
+    "Country": "N/A",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzhmNWZhOGEtMDk4MS00MWM0LWIwNmItMGRlODczNThhYjBiXkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "110",
+    "imdbID": "tt21841200",
+    "Type": "series",
+    "totalSeasons": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391dd"
+  },
+  "movies": {
+    "Title": "Talbis Iblis",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "20 Oct 2022",
+    "Runtime": "98 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Kabir Bhatia",
+    "Writer": "Ajami Hashim, Ashraf Modee Zain",
+    "Actors": "Azira Shafinaz, Nasha Aziz, Zul Ariffin",
+    "Plot": "A woman decides to leave Kuala Lumpur to give birth to her child out of wedlock, and is arranged to stay with a midwife. Unbeknownst to her, the midwife has her own evil plan for her child.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODI4Y2YzOTQtODQ3Ni00NDNhLTk4NjEtYzFkZjI1M2ViMGZiXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": 11.997624703087887,
+    "imdbVotes": 43,
+    "imdbID": "tt19718170",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391db"
+  },
+  "movies": {
+    "Title": "Kimchi Untuk Awak",
+    "Year": "2017",
+    "Rated": "N/A",
+    "Released": "30 Mar 2017",
+    "Runtime": "118 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Michael Ang",
+    "Writer": "N/A",
+    "Actors": "Natasha Elyzza, Emma Maembong, Ahmed Radwan Mohamed",
+    "Plot": "Based on the novel of the same name by Suri Ryana, the story is about Bella, a student who studies in a South Korean university. During her semester breaks, she decides to spend her free time in Malaysia. However, her calm and pea...",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDUwMzNmYzUtZmI1MS00Y2Y5LThjMmItMjQ5ZWM1ZWFlMDNlXkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "0.0129232359782889647.3",
+    "imdbVotes": 54,
+    "imdbID": "tt7084990",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391dc"
+  },
+  "movies": {
+    "Title": "7 Hari Mencintaiku",
+    "Year": "2016",
+    "Rated": "N/A",
+    "Released": "01 Nov 2016",
+    "Runtime": "41 min",
+    "Genre": "Drama, Romance",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Shukri Yahaya, Siti Saleha, Ungku Hariz",
+    "Plot": "Khuzairi (Shukri Yahaya), silently loves a girl named Mia Adriana (Siti Saleha). Love at first sight makes him a loyal lover. But the arrogant and arrogant nature of this girl caused Khuzairi never even as big as a mite kept the d...",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzZjMDVjNjEtMTY5MC00YmI4LTlkOGUtYjY1ZThkNDhlMmRjXkEyXkFqcGdeQXVyNTgwMDk2NTc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.0",
+    "imdbVotes": "27",
+    "imdbID": "tt8351534",
+    "Type": "series",
+    "totalSeasons": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391da"
+  },
+  "movies": {
+    "Title": "Pertentangan",
+    "Year": "1983",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "90 min",
+    "Genre": "Drama",
+    "Director": "Salleh Ghani",
+    "Writer": "Salleh Ghani (story)",
+    "Actors": "Raja Nuraini Jaffar, Mokhtaruddin, Bob Mustafa, Rubiah Suparman",
+    "Plot": "N/A",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "N/A",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt1130018",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391d9"
+  },
+  "movies": {
+    "Title": "Imam",
+    "Year": "2023",
+    "Rated": "N/A",
+    "Released": "02 Mar 2023",
+    "Runtime": "102 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Mior Hashim Manap",
+    "Writer": "Abdullah Hussain",
+    "Actors": "M. Nasir, Faizal Hussein, Vanida Imran",
+    "Plot": "It centers on a man who returns to his village after ten years away with radical ideas for reform, but the villagers are skeptical. He is ordained as an imam and clashes with the other local imam.",
+    "Language": "Malay",
+    "Country": "N/A",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTdiNDA2MDctMGNhMS00ZTk1LWE2ZjMtNzUxNGQ2ODhkMWZkXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.6",
+    "imdbVotes": "5",
+    "imdbID": "tt18337836",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391d8"
+  },
+  "movies": {
+    "Title": "Seksing masahista",
+    "Year": "2011",
+    "Rated": "N/A",
+    "Released": "06 Apr 2011",
+    "Runtime": "90 min",
+    "Genre": "Drama",
+    "Director": "John Ad. Castillo, Z. Lokman",
+    "Writer": "John Ad. Castillo, Z. Lokman",
+    "Actors": "Telly Babasa, Mae Dela Cerna, Zyrus Imperial",
+    "Plot": "A lusty masseuse cheats on her unsuspecting husband. As her affairs become more heated and complex, the toll on their marriage can no longer be avoided.",
+    "Language": "Filipino, Tagalog",
+    "Country": "Malaysia, Philippines",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGZiMTI3N2MtNDE1Ny00YTU2LTg4YzYtZmIwOGQyY2Y2Mzg5XkEyXkFqcGdeQXVyNzYzOTk2MzQ@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.5",
+    "imdbVotes": "36",
+    "imdbID": "tt1885366",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391d7"
+  },
+  "movies": {
+    "Title": "Don't Look at the Demon",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "07 Oct 2022",
+    "Runtime": "95 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Brando Lee",
+    "Writer": "Brando Lee, Alfie Palermo",
+    "Actors": "Jordan Belfi, Ashlyn Boots, Malin Crépin",
+    "Plot": "A team of paranormal investigators head for the highlands of Fraser's Hill, Malaysia, to probe a series of alleged disturbances at a house with a dark past.",
+    "Language": "English",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTU4OGI0MTAtYTNlYS00ZTU3LTliZGQtOTcwNGFjM2QxZGI1XkEyXkFqcGdeQXVyNTA2MDM0MTY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "78%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "0.0054218173931901985.3",
+    "imdbVotes": 175,
+    "imdbID": "tt5249706",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391e1"
+  },
+  "movies": {
+    "Title": "Black (Malaysia)",
+    "Year": "2019–2021",
+    "Rated": "N/A",
+    "Released": "17 Dec 2019",
+    "Runtime": "N/A",
+    "Genre": "Drama, Fantasy, Mystery",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Zahim Albakri, Namron, Zain Hamid",
+    "Plot": "\"'Black' tells the story of the titular bunian character who is on a mission to track down his fugitive partner in the human world. To do so, Black inhabits the body of a deceased cop named Malik and assumes his identity in order ...",
+    "Language": "Malay, English",
+    "Country": "Malaysia",
+    "Awards": "7 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ3ZjcxMDctZmFkMi00M2ViLTg5NGYtZjZmNTcxZmE2MDllXkEyXkFqcGdeQXVyMTQ4MzYwMjg@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "NaN0.0136165577342047947.2",
+    "imdbVotes": 53,
+    "imdbID": "tt11479072",
+    "Type": "series",
+    "totalSeasons": "2",
+    "Response": "True"
+  },
+  "Comments": [
+    {
+      "reviewID": 758035905,
+      "rating": "5",
+      "comment": "best",
+      "user": "test",
+      "verified": true
+    },
+    {
+      "reviewID": 577991898,
+      "rating": "4",
+      "comment": "very best, fuiyo0!!",
+      "user": "sufi",
+      "verified": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391df"
+  },
+  "movies": {
+    "Title": "Special Force: Anarchy",
+    "Year": "2023–",
+    "Rated": "N/A",
+    "Released": "14 Jan 2023",
+    "Runtime": "N/A",
+    "Genre": "Action, Crime, Drama",
+    "Director": "N/A",
+    "Writer": "Syafiq Yusof, Syamin Yusof",
+    "Actors": "M. Nasir, Puteri Aishah, Yusuf Bahrin",
+    "Plot": "Iman, a courageous young police officer from the fictional country of Tenggara. Her investigation into a planned bank heist leads her to a dangerous underground group, where she stumbles upon a secret that could change everything....",
+    "Language": "Malay",
+    "Country": "N/A",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2Q3YWUxNDktNDU1ZS00ZjgzLWIwNTYtMmQ5MTdhNmIwMDM5XkEyXkFqcGdeQXVyMTE2OTk4MjYz._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "26",
+    "imdbID": "tt24580978",
+    "Type": "series",
+    "totalSeasons": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "643a403706b218f9269391e0"
+  },
+  "movies": {
+    "Title": "Rumah Sewa RM50",
+    "Year": "2014",
+    "Rated": "N/A",
+    "Released": "02 Jan 2014",
+    "Runtime": "N/A",
+    "Genre": "Horror",
+    "Director": "M. Jamil",
+    "Writer": "N/A",
+    "Actors": "Delimawati, Boy Iman, M. Jamil",
+    "Plot": "N/A",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWM2YWU4ZWEtZGE1Yy00ZWZiLWEwMDYtYzA4ZDA5ZDlmOGFhXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "7",
+    "imdbID": "tt3437510",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "6498cf3f505072b0e8014830"
+  },
+  "movies": {
+    "Title": "Mael Totey: The Movie",
+    "Year": "2020",
+    "Rated": "N/A",
+    "Released": "22 Oct 2020",
+    "Runtime": "103 min",
+    "Genre": "Comedy, Family, Romance",
+    "Director": "Syahmi Sazli",
+    "Writer": "Syahmi Sazli",
+    "Actors": "Syahmi Sazli, Emaleen Minhad, Aween Ismail",
+    "Plot": "Mael is a naive young man trying to win the girl of his dreams. In his efforts to learn English, one of the conditions set by his dream girl, he meets Teacher, whose patience and kindness causes him fall in love with her instead.",
+    "Language": "Malay, English",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjVmNzZiY2QtYzAxMC00OWQ5LTkxZDktY2QwOTU2MWNhMmUzXkEyXkFqcGdeQXVyMTE0ODI0Mjc2._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.6",
+    "imdbVotes": "141",
+    "imdbID": "tt13285446",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "6498cfeb7eae1fdc66baa2ac"
+  },
+  "movies": {
+    "Title": "Takut ke Tak",
+    "Year": "2020",
+    "Rated": "N/A",
+    "Released": "27 Aug 2020",
+    "Runtime": "94 min",
+    "Genre": "Comedy, Horror, Mystery",
+    "Director": "Muzzamer Rahman",
+    "Writer": "P.S",
+    "Actors": "Nabil Aqil, Han Zalini, Ika Nabella",
+    "Plot": "Lamenting the overuse of cliches in horror movies, Abbas and his friends, Yang Guo, Linda, Amir and Sivar, are determined to make the best horror movie ever for their graduation project. The group of film students then pick a haun...",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDgyOGUyNGYtZDIwNi00ZTliLWE2ZGUtODFlOTYwNWZkMDRhXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "20",
+    "imdbID": "tt11907088",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "6498d0dfa0584dd17a140ff9"
+  },
+  "movies": {
+    "Title": "Bikin Filem",
+    "Year": "2020",
+    "Rated": "N/A",
+    "Released": "05 Nov 2020",
+    "Runtime": "70 min",
+    "Genre": "Comedy",
+    "Director": "M. Hilter Zami",
+    "Writer": "M. Hilter Zami",
+    "Actors": "Azhan Rani, Sherry Alhadad, Scha Alyahya",
+    "Plot": "A popular movie star, famous for her gossip mongering, aspires to produce a movie entitled 'Dendam Berbalas' and convinces director Rahim G to help her direct it. The crew then embark on a long and convoluted filming experience to...",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2Y2YWRlMDAtMWUzYS00MGE4LWFjYWItMmI3M2I4ZGQ5NWJlXkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.8/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "0.0168918918918918934.8",
+    "imdbVotes": 38,
+    "imdbID": "tt13373352",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+},
+{
+  "_id": {
+    "$oid": "6498d337f4db373d4c214203"
+  },
+  "movies": {
+    "Title": "Upin & Ipin: Keris Siamang Tunggal",
+    "Year": "2019",
+    "Rated": "TV-PG",
+    "Released": "08 Nov 2019",
+    "Runtime": "100 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Adam Bin Amiruddin, Syed Nurfaiz Khalid bin Syed Ibrahim, Ahmad Razuri bin Roseli",
+    "Writer": "Hjh. Ainon Ariff, Nur Naquyah bt Burhanuddin, Aliya bt Nazlan",
+    "Actors": "Asyiela Putri Bt Azhar, Mohd Amir Asyraf Bin Mohd Noor Rashid, Irfan Fahim Bin Mohd Irman",
+    "Plot": "Upin, Ipin and their friends come across a mystical 'keris' that opens up a portal and transports them straight into the heart of a kingdom.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ0OGIzMWEtZmY1Zi00MGFlLWE1NzAtNzI2NzQyMzI0OWIzXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "NaN0.00104040228888503567.3",
+    "imdbVotes": 792,
+    "imdbID": "tt9894394",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "Comments": [
+    {
+      "reviewID": 305158552,
+      "rating": "6",
+      "comment": "lawak ah, meow meow",
+      "user": "Anonymous",
+      "verified": true
+    },
+    {
+      "reviewID": 330483920,
+      "rating": "5",
+      "comment": "hey",
+      "user": "Anonymous",
+      "verified": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6498d8eb3508e6dc2c277dce"
+  },
+  "movies": {
+    "Title": "Penunggang Agama",
+    "Year": "2021",
+    "Rated": "N/A",
+    "Released": "25 Mar 2021",
+    "Runtime": "89 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Syafiq Yusof",
+    "Writer": "Nazri M. Annuar",
+    "Actors": "Zul Ariffin, Azira Shafinaz, Nasir Bilal Khan",
+    "Plot": "A Muslim couple face a problem: their children are being spooked by the supernatural. They hire a faith healer who might be a charlatan.",
+    "Language": "Malay",
+    "Country": "Malaysia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODI3ZjNiNmYtYWIwMy00NWU4LThlNDUtYjhlYWUzODM2YTliXkEyXkFqcGdeQXVyMTE5NjIyMDU1._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "0.0141776937618147454.6",
+    "imdbVotes": 93,
+    "imdbID": "tt14320136",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "Comments": [
+    {
+      "reviewID": 913173664,
+      "rating": "6",
+      "comment": "testing",
+      "user": "sufi",
+      "verified": false
+    }
+  ]
+}]
