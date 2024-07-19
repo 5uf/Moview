@@ -1,17 +1,15 @@
-# Moview
-A Malaysian movie review and recommendation app
+## Moview
+Description: A movie review and recommendation app from Malaysia
 
-Technology
-1. Backend : NodeJS
-2. Frontend : HTML, CSS, JS
-3. Database : MongoDB
+Technology Used:
+- Backend: NodeJS
+- Frontend: HTML, CSS, JavaScript
+- Database: MongoDB
 
-Instruction
-To run Moview:
-1. create a database named grprj, 2 collections named movies and users
-2. import data from the database folder to MongoDbCompass or using mongosh.
+Instructions to Run Moview:
+1. Create a database named "grprj" with 2 collections named "movies" and "users".
+2. Import data from the database folder to MongoDB Compass or by using mongosh.
 3. Open the terminal in the moview directory.
 4. Run the command "node index.js"
-
 
 
